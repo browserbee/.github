@@ -34,7 +34,7 @@ You can contribute by:
 Find out more about the different ways how to contribute on the [Join Us](https://browserbee.io/join-us/) page.
 If you want to get in touch with us first before contributing, you can use:
 
-* [`#browserbee` channel on CNCF Slack](https://slack.cncf.io/)
+* [`#browserbee` channel on Slack](https://slack.io/)
 * [BrowserBee Dev mailing list]()
 * [GitHub Discussions](https://github.com/orgs/browserbee/discussions)
 
